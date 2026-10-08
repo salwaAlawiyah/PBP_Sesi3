@@ -5,7 +5,6 @@ const input = readline.createInterface({
     output: process.stdout
 });
 
-console.log("=== PROGRAM HITUNG DISKON ===");
 console.log("1. Buku = 20000");
 console.log("2. Pulpen = 10000");
 console.log("3. Tas = 80000");
